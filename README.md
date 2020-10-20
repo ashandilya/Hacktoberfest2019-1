@@ -6,6 +6,8 @@
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://hacktoberfest.netlify.com/)&nbsp;
 [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019/blob/master/README.md)&nbsp;
 
+[![](https://sourcerer.io/fame/PragatiVerma18/Open-Source-Contributors-JSS/Hacktoberfest2019/images/0)](https://sourcerer.io/fame/PragatiVerma18/Open-Source-Contributors-JSS/Hacktoberfest2019/links/0)[![](https://sourcerer.io/fame/PragatiVerma18/Open-Source-Contributors-JSS/Hacktoberfest2019/images/1)](https://sourcerer.io/fame/PragatiVerma18/Open-Source-Contributors-JSS/Hacktoberfest2019/links/1)[![](https://sourcerer.io/fame/PragatiVerma18/Open-Source-Contributors-JSS/Hacktoberfest2019/images/2)](https://sourcerer.io/fame/PragatiVerma18/Open-Source-Contributors-JSS/Hacktoberfest2019/links/2)[![](https://sourcerer.io/fame/PragatiVerma18/Open-Source-Contributors-JSS/Hacktoberfest2019/images/3)](https://sourcerer.io/fame/PragatiVerma18/Open-Source-Contributors-JSS/Hacktoberfest2019/links/3)[![](https://sourcerer.io/fame/PragatiVerma18/Open-Source-Contributors-JSS/Hacktoberfest2019/images/4)](https://sourcerer.io/fame/PragatiVerma18/Open-Source-Contributors-JSS/Hacktoberfest2019/links/4)[![](https://sourcerer.io/fame/PragatiVerma18/Open-Source-Contributors-JSS/Hacktoberfest2019/images/5)](https://sourcerer.io/fame/PragatiVerma18/Open-Source-Contributors-JSS/Hacktoberfest2019/links/5)[![](https://sourcerer.io/fame/PragatiVerma18/Open-Source-Contributors-JSS/Hacktoberfest2019/images/6)](https://sourcerer.io/fame/PragatiVerma18/Open-Source-Contributors-JSS/Hacktoberfest2019/links/6)[![](https://sourcerer.io/fame/PragatiVerma18/Open-Source-Contributors-JSS/Hacktoberfest2019/images/7)](https://sourcerer.io/fame/PragatiVerma18/Open-Source-Contributors-JSS/Hacktoberfest2019/links/7)
+
 # Hacktoberfest2019
 Happy Hacktober! :octocat: This is a beginner friendly repository made specifically for Hacktoberfest that helps you get your first PR and takes you a step closer to earning your Hacktoberfest T-shirt 👕.
 
@@ -13,8 +15,6 @@ Happy Hacktober! :octocat: This is a beginner friendly repository made specifica
 ###### <a href="https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019/blob/master/beginner/json-files/git-commands.json" target="blank">https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019/blob/master/beginner/json-files/git-commands.json</a> 
 and that counts as your first PR.
 #### CAUTION: The description must be under 60 words at max. 
-
-Also, add your github username in the <a href="https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019/blob/master/beginner/contributers_list.md" target="blank">contributors_list.md</a>
 
 🎯 In case you are an intermediate or advanced level programmer or developer, we have got you covered too!! Step to our <a href="https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019/tree/master/Intermediate" target="blank"> intermediate folder</a> and make contributions as per as your interests.
 
